@@ -1,0 +1,82 @@
+1. What is Machine Learning ?
+=> Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and improve their performance without being explicitly programmed for every task.
+
+How many type of machine Learning?
+
+The three main types of Machine Learning are:
+
+1. Supervised Learning
+
+The model learns from labeled data (input + correct output).
+
+Example:
+
+Predicting house prices
+Email spam detection
+Disease prediction
+
+Sample Data:
+
+House Size	Price
+1000 sq ft	₹20 lakh
+1500 sq ft	₹30 lakh
+
+The model learns the relationship between size and price.
+
+2. Unsupervised Learning
+
+The model learns from unlabeled data and finds hidden patterns.
+
+Example:
+
+Customer segmentation
+Product recommendation
+Grouping similar users
+
+Sample Data:
+The model receives customer data but no labels and automatically creates groups.
+
+3. Reinforcement Learning
+
+The model learns through trial and error by receiving rewards or penalties.
+
+Example:
+
+Self-driving cars
+Chess-playing AI
+Robots
+
+Concepts:
+
+Agent: Learner
+Environment: Surroundings
+Reward: Positive feedback
+Penalty: Negative feedback
+Quick Comparison
+Type	                 Data	          Goal
+Supervised Learning	    Labeled	        Predict output
+Unsupervised Learning	Unlabeled	    Find patterns
+Reinforcement Learning	Rewards/Penalties	Learn best action
+
+
+# Type of Machine Learning
+
+1. Supervised Learning
+Learns from labeled data
+• Classification
+• Regression
+Example: Spam detection
+2. Unsupervised Learning
+Learns from unlabeled data
+• Clustering
+• Association
+Example: Customer groups
+3. Reinforcement Learning
+Learns through rewards & penalties
+• Agent
+• Environment
+• Reward
+Example: Game-playing robot
+
+
+
